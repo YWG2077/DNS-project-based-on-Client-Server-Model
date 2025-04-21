@@ -1,0 +1,4 @@
+www.nasa.gov.us 86400 IN A 125.125.125.125
+www.nasa.gov.us 86400 IN MX www.nasamx.gov.us
+www.nasamx.gov.us 86400 IN A 148.148.148.148
+www.nasa.gov.us 86400 IN CNAME www.flytothemoon.goc.us

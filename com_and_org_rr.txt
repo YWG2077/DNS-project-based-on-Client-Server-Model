@@ -1,0 +1,8 @@
+www.microsoft.com 86400 IN A 127.3.4.8
+www.microsoft.com 86400 IN MX www.microsoftmx.com
+www.microsoftmx.com 86400 IN A 138.138.138.138
+www.microsoft.com 86400 IN CNAME www.hugetough.com
+www.ietf.org 86400 IN A 142.148.67.56
+www.ietf.org 86400 IN MX www.ietfmx.org
+www.ietfmx.org 86400 IN A 139.189.154.189
+www.ietf.org 86400 IN CNAME www.ietfcname.org
